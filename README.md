@@ -4,3 +4,7 @@ Hi there! this is team trojan horses. This repo is the submission code for the s
 <p align="center">
   <img src="AI/results/Screenshot 2022-04-12 at 1.15.25 AM.png" title="Input and output of the model">
 </p>
+
+<audio controls>
+  <source src="AI/results/My_heartbeat.wav" type="audio/WAV">
+</audio>
