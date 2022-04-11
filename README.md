@@ -6,5 +6,5 @@ Hi there! this is team trojan horses. This repo is the submission code for the s
 </p>
 
 <audio controls>
-  <source src="AI/results/My_heartbeat.wav" type="audio/WAV">
+  <source src="AI/results/My_heartbeat.wav" type="audio/wav">
 </audio>
